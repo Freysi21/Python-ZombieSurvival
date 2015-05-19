@@ -4,9 +4,9 @@ Hi stranger, I've always wanted to make a topdown shooter, after years of playin
 There are some features that are left to implement but hopefully i will get a job and it will be done within the next 10 years. 
 
 ## Install
-install python3
-pip install pygame
-python -i game.py 
+> install python3
+> pip install pygame
+> python -i game.py 
 
 ##Heroku
 Workin on it!
